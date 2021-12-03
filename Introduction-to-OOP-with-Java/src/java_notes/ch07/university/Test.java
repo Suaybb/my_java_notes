@@ -43,7 +43,7 @@ public class Test {
 		
 		System.out.println("Name of student student1's first course is " + student1.coursesTaken[0].name);
 		System.out.println("Name of student student1's first course's professor is " + student1.coursesTaken[0].teacher.name);
-		System.out.println("Name of student student1's first course's professor's department is " + student1.coursesTaken[0].teacher.department.name);
+		System.out.println("Name of student student1's first course's professor's department is " + student1.coursesTaken[0].teacher.department.name );
 		
 		
 		
