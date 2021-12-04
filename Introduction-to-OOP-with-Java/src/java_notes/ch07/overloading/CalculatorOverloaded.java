@@ -2,6 +2,8 @@ package java_notes.ch07.overloading;
 
 public class CalculatorOverloaded {
 
+	// Same func name and different parameter
+	
 	int add(byte first, byte second) {
 		System.out.println("Arguments are in short");
 		return first + second;
