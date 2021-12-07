@@ -1,6 +1,6 @@
 package java_notes.ch09.access.classAccess.x;
 
-class ClassZ {
+public class ClassZ {
 
 	ClassX x;
 	
